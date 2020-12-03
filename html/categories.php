@@ -7,6 +7,8 @@
 
     <link rel="stylesheet" href="../header/header.css">
     <link rel="stylesheet" href="../css/categories.css">
+    <link rel="stylesheet" href="../footer/footer.css">
+    <link rel="stylesheet" href="../css/style.css">
     
     <!-- FONTS -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -27,16 +29,10 @@
     <!-- -------------------------- -->
              <!-- NAVEGACIÓN -->
     <!-- -------------------------- -->
-    <div class="topnav" id="myTopnav">
-      <img src="../img/conferro.jpg" alt="">  
-  
-      <a href="../index.html">INICIO</a>
-      <a href="#">PRODUCTOS</a>
-      <a href="#contact">CONTACTO</a>
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()" id="btn-option">
-        <i class="fa fa-bars"></i>
-      </a>
-    </div>
+  <?php
+    include('../header/header.php')
+  ?>
+
     
 
   <!-- -------------------------- -->
@@ -130,6 +126,13 @@
       </div>
     </div>
 
+
+<!-- -------------------------- -->
+            <!-- FOOTER -->
+<!-- -------------------------- -->
+    <?php
+      include ('../footer/footer.php');
+     ?>
 
 
     <script type="text/javascript" src="../js/main.js"></script> 

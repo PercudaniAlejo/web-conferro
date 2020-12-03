@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/index.css">
 <link rel="stylesheet" href="header/header.css">
+<link rel="stylesheet" href="css/header-reponsive.css">
 <!-- FONTS -->
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
@@ -20,6 +21,11 @@
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
+<!-- FOOTER -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="footer/footer.css">
 </head>
 <body>
 
@@ -27,17 +33,19 @@
 <!-- -------------------------- -->
         <!-- NAVEGACIÓN -->
 <!-- -------------------------- -->
-<div class="topnav" id="myTopnav">
+<!-- <div class="topnav" id="myTopnav">
   <img src="img/conferro.jpg" alt="">  
 
   <a href="#home">INICIO</a>
-  <a href="html/categories.html">PRODUCTOS</a>
+  <a href="html/categories.php">PRODUCTOS</a>
   <a href="#contact">CONTACTO</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()" id="btn-option">
     <i class="fa fa-bars"></i>
   </a>
-</div>
-
+</div> -->
+<?php
+  include('header/header.php')
+?>
 
 
 <!-- -------------------------- -->
@@ -70,8 +78,6 @@
   </div>
 
 
-
-
 <!-- -------------------------- -->
         <!-- ¿QUIÉNES SOMOS? -->
 <!-- -------------------------- -->
@@ -87,45 +93,12 @@
   </div>
 
 
-
+  <!-- -------------------------- -->
+            <!-- FOOTER -->
 <!-- -------------------------- -->
-     <!-- CONTACT SLIDE -->
-<!-- -------------------------- -->
-<div class="container-contacto">
-    <!--  DIV CON IG FB WA-->
-    <div class="redes">
-
-      <div class="image-redes">
-        <a href="https://www.google.com/" target="_blank"><img src="img/redes/ig.png" alt="Instagram.png" id="instagram"></a>
-        <a href="https://www.instagram.com/conferromuebles/" target="_blank"><span> CONFERROMUEBLES </span></a>
-     </div>
-
-     <div class="image-redes">
-        <a href="https://www.facebook.com/Conferro-Muebles-146303112206904" target="_blank"><img src="img/redes/fb.png" alt="Facebook.png" id="facebook"></a>
-        <a href="https://www.facebook.com/Conferro-Muebles-146303112206904" target="_blank"><span> CONFERRO MUEBLES </span></a>
-     </div>
-
-     <div class="image-redes">
-        <a href="" target="_blank"><img src="img/redes/wsapp.png" alt="Whatsapp.png" id="whatsapp"></a>
-        <a href="https://www.facebook.com/Conferro-Muebles-146303112206904"><span> poner número </span></a>
-      </div>
-
-    </div>
-
-    <!-- DIV CON DIRECCIÓN -->
-      <div class="calle">  
-        <p>
-          Onofre Betbeder 3896
-          Castelar Sur 
-          Prov. Buenos Aires
-        </p>
-      </div>
-    <div class="direccion">
-      <div class="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d487.6615582084915!2d-58.653327127042324!3d-34.690476331716184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc0d6cc00ae4b%3A0xe50041e82a15ccf9!2sOnofre%20Betbeder%203896%2C%20B1712NJN%20Castelar%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1606571093579!5m2!1ses-419!2sar" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" ></iframe>
-      </div>
-    </div>
-  </div>
+    <?php
+      include ('footer/footer.php');
+     ?>
 <script type="text/javascript" src="js/main.js"></script>
 
 </body>
