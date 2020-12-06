@@ -1,40 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>FOOTER</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <!-- FONTS -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
-     
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/ css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
-    
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <!-- ---------------------------->
-            <!-- FOOTER CSS-->
-    <!-- ---------------------------->
-    <link rel="stylesheet" href="footer.css">
-  
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-
-    <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
-
-  </head>
-  <body>
     <!-- ---------------------------->
              <!-- FOOTER -->
     <!-- ---------------------------->
-
-    <header>
-
-    </header>
-
+  
     <!-- The content of your page would go here. -->
 
     <footer class="footer-distributed">
@@ -57,7 +24,7 @@
 
         <div>
           <i class="fa fa-envelope"></i>
-          <p><span class="__cf_email__">CORREO</span></p>
+          <p><span class="__cf_email__">conferro@live.com.ar</span></p>
         </div>
 
       </div>
@@ -74,12 +41,10 @@
 
           <a href="https://www.facebook.com/Conferro-Muebles-146303112206904" target="_blank"><i class="fa fa-facebook"></i></a>
           <a href="https://www.instagram.com/conferromuebles/" target="_blank"><i class="fa fa-instagram"></i></a>
-          <a href="https://wa.me/541158553528"><i class="fa fa-whatsapp"></i></a>
+          <a href="https://wa.me/541158553528" target="_blank"><i class="fa fa-whatsapp"></i></a>
 
         </div>
 
       </div>
 
     </footer>
-  </body>
-</html>

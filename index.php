@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" href="css/index.css">
 <link rel="stylesheet" href="header/header.css">
 <link rel="stylesheet" href="css/header-reponsive.css">
 <!-- FONTS -->
@@ -22,7 +21,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 <!-- FOOTER -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
 
     <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="footer/footer.css">
@@ -33,19 +32,16 @@
 <!-- -------------------------- -->
         <!-- NAVEGACIÓN -->
 <!-- -------------------------- -->
-<!-- <div class="topnav" id="myTopnav">
+ <div class="topnav" id="myTopnav">
   <img src="img/conferro.jpg" alt="">  
 
-  <a href="#home">INICIO</a>
+  <a href="#">INICIO</a>
   <a href="html/categories.php">PRODUCTOS</a>
   <a href="#contact">CONTACTO</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()" id="btn-option">
     <i class="fa fa-bars"></i>
   </a>
-</div> -->
-<?php
-  include('header/header.php')
-?>
+</div>
 
 
 <!-- -------------------------- -->
@@ -95,7 +91,7 @@
 
   <!-- -------------------------- -->
             <!-- FOOTER -->
-<!-- -------------------------- -->
+  <!-- -------------------------- -->
     <?php
       include ('footer/footer.php');
      ?>
