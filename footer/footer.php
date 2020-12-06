@@ -40,7 +40,9 @@
         <div class="footer-icons">
 
           <a href="https://www.facebook.com/Conferro-Muebles-146303112206904" target="_blank"><i class="fa fa-facebook"></i></a>
+
           <a href="https://www.instagram.com/conferromuebles/" target="_blank"><i class="fa fa-instagram"></i></a>
+
           <a href="https://wa.me/541158553528" target="_blank"><i class="fa fa-whatsapp"></i></a>
 
         </div>

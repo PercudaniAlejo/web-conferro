@@ -95,6 +95,8 @@
     <?php
       include ('footer/footer.php');
      ?>
+
+     
 <script type="text/javascript" src="js/main.js"></script>
 
 </body>
