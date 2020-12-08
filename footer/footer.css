@@ -11,8 +11,8 @@ body, html{
 	text-align: left;
 	font: bold 16px sans-serif;
 	padding: 20px 30px;
-	position: relative;
-}
+	position: absolute;
+} 
 
 .footer-distributed .footer-left,
 .footer-distributed .footer-center,
@@ -149,18 +149,6 @@ body{
 }
 
 
-/* In our demo, the footers are fixed to the bottom of the page */
-
-footer{
-	position: fixed;
-	bottom: 0;
-}
-
-@media (max-height:800px){
-	footer { position: static; }
-}
-/* If you don't want the footer to be responsive, remove these media queries */
-
 @media (max-width: 880px) {
 
 	.footer-distributed{
@@ -173,12 +161,11 @@ footer{
 		display: block;
 		width: 100%;
 		margin-bottom: 35px;
-		text-align: center;
 	}
 
 	.footer-distributed .footer-left iframe{
 		position: relative;
-		right: 30px;
+		right: 40px;
 		width: 300px;
 	}
 

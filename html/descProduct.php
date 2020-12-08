@@ -6,7 +6,7 @@
 	<title>PRODUCT DESCRIPTION</title>
 
 	<!-- CSS CUSTOM -->
-	<link rel="stylesheet" href="descProduct.css">
+	<link rel="stylesheet" href="../css/descProduct.css">
 
 	<link rel="stylesheet" href="../css/header-reponsive.css">
 	<link rel="stylesheet" href="../footer/footer.css">

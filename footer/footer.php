@@ -2,8 +2,6 @@
              <!-- FOOTER -->
     <!-- ---------------------------->
   
-    <!-- The content of your page would go here. -->
-
     <footer class="footer-distributed">
 
       <div class="footer-left">

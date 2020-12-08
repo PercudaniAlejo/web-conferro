@@ -4,10 +4,11 @@
     <title>CATEGORIAS</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
+   <link rel="stylesheet" href="../header/header.css">
+   <link rel="stylesheet" href="../footer/footer.css">  
+   <link rel="stylesheet" href="../css/categories.css">
 
-    <link rel="stylesheet" href="../header/header.css">
-    <link rel="stylesheet" href="../footer/footer.css">
-    <link rel="stylesheet" href="../css/categories.css">
     
     <!-- FOOTER -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
@@ -44,7 +45,6 @@
     </div>
 
     
-
   <!-- -------------------------- -->
           <!-- CATEGORIAS -->
   <!-- -------------------------- -->
@@ -66,7 +66,7 @@
            <div class="card">
             <a href="">
               <img src="../img/fotoDePrueba.jpg" alt="">
-              <h3> CATEGORIA 2</h3>
+               <h3> CATEGORIA 2</h3>
             </a>
            </div>
          </div>
