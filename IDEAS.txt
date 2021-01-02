@@ -1,5 +1,0 @@
-
-
-INDEX =>
-	- PORTADA =>
-		- FOOT: "SOLDANDO IDEAS"

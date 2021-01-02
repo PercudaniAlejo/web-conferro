@@ -59,7 +59,7 @@ font-awesome/4.7.0/css/font-awesome.min.css">
 
         <!-- PRUEBA DE FOOTER EN EL CAROUSEL -->
         <div class="carousel-caption">
-          <h5 id="footer__carousel" style="color: red">SOLDANDO IDEAS...</h5>
+          <h5 id="footer__carousel">SOLDANDO IDEAS</h5>
         </div>
 
         <div class="item active">
