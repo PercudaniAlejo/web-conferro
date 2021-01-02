@@ -15,6 +15,10 @@ body, html {
 	height: 60vh !important;
 }
 
+.carousel-caption>h5{
+	color: red;
+}
+
 .separator>h1, .content-aboutUs>p {
 	color: white;
 	text-align: center
@@ -31,7 +35,7 @@ body, html {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	display: inline-block;
-	border-bottom: 4px solid #f7aa47;
+	border-bottom: 4px solid red !important;
 	padding-bottom: 10px;
 	width: 500px;
 	text-align: center

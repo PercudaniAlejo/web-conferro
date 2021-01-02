@@ -7,7 +7,6 @@
 font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-<link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="header/header.css">
 <link rel="stylesheet" href="css/header-reponsive.css">
 
@@ -30,6 +29,8 @@ font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="footer/footer.css">
+
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -55,6 +56,12 @@ font-awesome/4.7.0/css/font-awesome.min.css">
 <div id="myCarousel" class="carousel slide" data-interval="2500" data-ride="carousel">
       <!-- Carousel items -->
       <div class="carousel-inner">
+
+        <!-- PRUEBA DE FOOTER EN EL CAROUSEL -->
+        <div class="carousel-caption">
+          <h5 id="footer__carousel" style="color: red">SOLDANDO IDEAS...</h5>
+        </div>
+
         <div class="item active">
           <img src="img/portada/photo6.jpg" alt="First Slide">
         </div>

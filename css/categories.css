@@ -25,6 +25,9 @@
 	position: relative;
 }
 
+.footer-distribute{
+	display: block;
+}
 .productos img {
 	height: 264px;
 }
@@ -96,17 +99,17 @@
 	}
 
 	.titleProducts{
-		font-size: 25px;
+		f|ont-
+		si ze: 25px ;
 		margin-top: 5.5em;
 		width: 220px;
 	}
 
 	.card h3 {transform: translate(-38%, -30%);}
 
-	
- .card img{
- 	position: relative;
-	left: 50%;
-	transform: translate(-45%, 0%);
+ 	.card img{
+ 		position: relative;
+		left: 50%;
+		transform: translate(-45%, 0%);
  } 	
 }
