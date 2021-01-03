@@ -2,37 +2,28 @@
 <html>
   <head>
     <title>CONFERRO - MUEBLES</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/
-font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/
+    font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-<link rel="stylesheet" href="header/header.css">
-<link rel="stylesheet" href="css/header-reponsive.css">
+    <link rel="stylesheet" href="header/header.css">
+    <link rel="stylesheet" href="css/header-reponsive.css">
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
-<!-- FONTS -->
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/ css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-
-<!-- FOOTER -->
+    <!-- FOOTER -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
 
     <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="footer/footer.css">
-
-<link rel="stylesheet" href="css/style.css">
-</head>
-<body>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
 
 
 <!-- -------------------------- -->
@@ -97,7 +88,7 @@ font-awesome/4.7.0/css/font-awesome.min.css">
         Somos una empresa argentina especializada en construcciones ferrosas. En CONFERRO tenemos
         para ofrecerte una amplia gama de productos 
         y servicios relacionados al área metalúrgica.
-    </p>
+    </p>wwwwwwwwwwwww
   </div>
 
 
