@@ -16,8 +16,7 @@ body, html {
 
 .carousel-caption>#footer__carousel{
 	font-size: 3em;
-	font-style: italic;
-	margin-left: 25px;
+	margin-left: 17px;
 	margin-bottom: 25px;
 	text-shadow: 2px 4px #414142;
 }
@@ -74,9 +73,14 @@ body, html {
 		display: none;
 	}
 
+	.separator { 
+		width: auto;
+	}
+
 	.separator>h1 {
 		font-size: 2em;
 	}
+
 
 	.lead {
 		margin-top: 10px !important;

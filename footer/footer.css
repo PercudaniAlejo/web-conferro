@@ -11,8 +11,6 @@ body, html{
 	text-align: left;
 	font: bold 16px sans-serif;
 	padding: 20px 30px;
-	position: absolute;
-	/*bottom: 0 !important; ---- NO FUNCIONA REVISAR */
 } 
 
 .footer-distributed .footer-left,
@@ -22,7 +20,7 @@ body, html{
 	vertical-align: bottom;
 }
 
-/* Footer left */
+/* Map */
 
 .footer-distributed .footer-left{
 	margin-left: 30px;
@@ -33,7 +31,7 @@ body, html{
 	width: 400px;
 }
 
-/* The company logo */
+/* Logo */
 
 .footer-distributed h3{
 	color:  #ffffff;
@@ -41,17 +39,7 @@ body, html{
 	margin: 0;
 }
 
-
-/* Footer links */
-
-.footer-distributed .footer-links a{
-	display:inline-block;
-	line-height: 1.8;
-	text-decoration: none;
-	color:  inherit;
-}
-
-/* Footer Center */
+/* Contact */
 
 .footer-distributed .footer-center{
 	width: 35%;
@@ -91,7 +79,7 @@ body, html{
 
 
 
-/* Footer Right */
+/* Redes */
 
 .footer-distributed .footer-right{
 	width: 20%;

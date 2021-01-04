@@ -3,9 +3,7 @@
   <head>
     <title>CONFERRO - MUEBLES</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/
-    font-awesome/4.7.0/css/font-awesome.min.css">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link rel="stylesheet" href="header/header.css">
     <link rel="stylesheet" href="css/header-reponsive.css">
@@ -85,10 +83,10 @@
   </div>
   <div class="content-aboutUs">
     <p class="lead">
-        Somos una empresa argentina especializada en construcciones ferrosas. En CONFERRO tenemos
-        para ofrecerte una amplia gama de productos 
+        Somos una empresa argentina especializada en construcciones ferrosas.
+        En CONFERRO tenemos para ofrecerte una amplia gama de productos 
         y servicios relacionados al área metalúrgica.
-    </p>wwwwwwwwwwwww
+    </p>
   </div>
 
 

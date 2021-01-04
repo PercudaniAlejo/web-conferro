@@ -32,13 +32,8 @@
       <a href="html/categories.php">PRODUCTOS</a>
       <a href="#contact">CONTACTO</a>
       <a href="javascript:void(0);" class="icon" onclick="myFunction()" id="btn-option">
-      <i class="fa fa-bars"></i>
-  </a>
-</div>
-
-
-<!-- ARREGLAR EL VOLVER A TOCAR EN LA MISMA SECCIÓN Y NO VA -->
-
+      <i class="fa fa-bars"></i></a>
+    </div>
     <script type="text/javascript" src="../js/main.js"></script>
 
   </body>

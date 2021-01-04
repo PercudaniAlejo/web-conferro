@@ -1,18 +1,28 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');*/ /*Quicksand*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap'); /*Roboto*/
+
+/** {
+  font-family: 'Quicksand', sans-serif;
+}*/
+*{
+  font-family: 'Roboto', sans-serif; 
+}
+
+
 body {
   margin: 0;
   background-color: #232323 !important;
 }
 
-*{font-family: 'Montserrat', sans-serif;}
-
-
 .topnav {
-  overflow: hidden;
   background-color: #292828;
   border-bottom: 5px solid #f7aa47;
-  position: fixed !important;
-  z-index: 999;
+  z-index: 100;
   width: 100%;
+  position: fixed;
+  position: relative;
+  top: 0;
 }
 
 .topnav a {
@@ -44,7 +54,7 @@ body {
 .topnav img {
   height: 55px;
   position: relative;
-  }
+}
 
 
 .topnav a:hover, .topnav a:link, .topnav a:active{
