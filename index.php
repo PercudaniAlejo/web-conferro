@@ -32,7 +32,7 @@
 
   <a href="#">INICIO</a>
   <a href="html/categories.php">PRODUCTOS</a>
-  <a href="#contact">CONTACTO</a>
+  <a href="html/contact.php">CONTACTO</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()" id="btn-option">
     <i class="fa fa-bars"></i>
   </a>

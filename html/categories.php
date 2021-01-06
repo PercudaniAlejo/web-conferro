@@ -25,8 +25,8 @@
     <div class="topnav" id="myTopnav">
       <img src="../img/conferro.jpg" alt="">  
       <a href="../index.php">INICIO</a>
-      <a href="#categories">PRODUCTOS</a>
-      <a href="#contact">CONTACTO</a>
+      <a href="categories.php">PRODUCTOS</a>
+      <a href="contact.php">CONTACTO</a>
       <a href="javascript:void(0);" class="icon" onclick="myFunction()" id="btn-option">
         <i class="fa fa-bars"></i>
       </a>
@@ -104,7 +104,7 @@
 
     <?php
       include ('../footer/footer.php');
-     ?>
+    ?>
 
     <script type="text/javascript" src="../js/main.js"></script> 
   </body>

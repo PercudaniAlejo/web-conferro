@@ -26,7 +26,6 @@ body {
     flex-direction: column;
     position: absolute;
     text-align: left;
-
 }
 
 .images h2 {
@@ -201,6 +200,10 @@ h3:nth-child(2) {
     #more-infos h5{
         margin-top: 70px;
     }
+}
 
+
+/* LAPTOPS */
+@media screen and (max-width: 800px) {
 
 }

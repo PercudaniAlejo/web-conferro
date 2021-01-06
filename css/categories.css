@@ -4,14 +4,8 @@ body, html {
 	height: 100%;
 }
 
-
-.titleProducts{
-	margin-top: 400px;
-	color: white;
-}
-
 .titleProducts {
-	margin: 4em 0em 0em 0em;
+	margin-top: 2.5em;
 	position: relative;
 	left: 50%;
 	transform: translate(-50%, -50%);
@@ -20,6 +14,7 @@ body, html {
 	padding-bottom: 15px;
 	width: 600px;
 	text-align: center;
+	color: white;
 }
 
 /*
@@ -52,7 +47,6 @@ body, html {
 }
 
 .desc__categorie>h5 {
-	line-height: 200px;
 	color:white;
 	position: relative;
 	font-size: 1.45em;

@@ -3,6 +3,14 @@ body, html{
 	height: 100%;
 }
 
+html{
+	/*position: relative;*/
+}
+
+body {
+	margin: 0;
+}
+
 .footer-distributed{
 	background-color: #292828;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
@@ -11,6 +19,8 @@ body, html{
 	text-align: left;
 	font: bold 16px sans-serif;
 	padding: 20px 30px;
+/*	position: absolute;
+	bottom: 0;*/
 } 
 
 .footer-distributed .footer-left,
