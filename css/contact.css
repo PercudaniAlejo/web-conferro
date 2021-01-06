@@ -2,10 +2,11 @@
 	color: white;
 }
 
+html, body {
+	background-color: #232323
+}
+
 .container {
-    display:flex;
-    justify-content: center;
-    align-items: center;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -16,11 +17,23 @@
    	-webkit-box-shadow: 4px 4px 5px -3px rgba(0,0,0,0.75);
 	-moz-box-shadow: 4px 4px 5px -3px rgba(0,0,0,0.75);
 	box-shadow: 4px 4px 5px -3px rgba(0,0,0,0.75);
+	text-align: center;
+
+/*	display: flex;
+  	align-items: center;
+  	justify-content: center;*/
+
 }
 
 /*------------------
 *		USUARIO
 ------------------*/
+
+form {
+	position: relative;
+	display: inline-block;
+	text-align: left;
+}	
 
 .containersContact {
 	display: inline-block;
@@ -115,3 +128,42 @@ textarea::placeholder{
 input:focus{
 	outline: none;
 }
+
+
+/* MOBILE */
+@media screen and (max-width: 600px) {
+	.container {
+		width: 100%;
+		-webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);
+		-moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);
+		box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);
+		background-color: transparent;
+	}
+
+	#datos, #message, .containersContact {
+		margin: 0;
+		padding: 0;
+		position: relative;
+		left: 50%;
+		transform: translate(-50%, 0%);
+		/*padding-left: 10px;*/ /*Despues centrar*/
+	}
+
+	#datos {
+		border: none;
+		padding-bottom: 30px;
+		margin-bottom: 30px;
+	border-bottom: 2px solid #f7aa47; 
+	}
+
+	#message>textarea {
+		padding-top: 20px;
+		min-width: 320px;
+		max-width: 320px;
+		min-height: 250px;
+		max-height: 250px;
+
+	}
+}
+
+/* LAPTOP */

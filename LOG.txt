@@ -2,10 +2,10 @@
 
 - FOOTER CAROUSEL - REVISAR DISEÑO
 
+- NO ENVIA CORREO "FALLO" ---- ENVIA PERO NO RECIBO NADA
+
 - REPONSIVE DE descProduct.php
 
-- REPONSIVE DE contact.php
+- REPONSIVE DE contact.php -- FALTA LAPTOP
 
-- NO ENVIA CORREO "FALLO"
-
-- VER BUTTON Y <A> EN descProduct.php
+- FALTA FOOTER EN contact.php

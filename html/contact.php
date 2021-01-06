@@ -32,7 +32,6 @@
 
     <!-- DIV CONTACT -->
     <div class="container">
-    	
     	<form action="" method="POST">
 	   		<div id="datos" class="containersContact">
 	   			<h1> CONTACTO </h1>
