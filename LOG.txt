@@ -6,6 +6,11 @@
 
 - REPONSIVE DE descProduct.php
 
+
+
+
 - REPONSIVE DE contact.php -- FALTA LAPTOP
 
 - FALTA FOOTER EN contact.php
+
+- VER QUITANDO DIV CONTAINER EN contact.php
