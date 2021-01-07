@@ -24,14 +24,13 @@
  	<div class="topnav" id="myTopnav">
  		<img src="../img/conferro.jpg" alt="">  
   		<a href="../index.php">INICIO</a>
-  		<a href="../html/categories.php">PRODUCTOS</a>
-  		<a href="#contact">CONTACTO</a>
+  		<a href="categories.php">PRODUCTOS</a>
+  		<a href="contact.php">CONTACTO</a>
   		<a href="javascript:void(0);" class="icon" onclick="myFunction()" id="btn-option">
     		<i class="fa fa-bars"></i>
   		</a>
 	</div>
  
-
   <!-- -------------------------- -->
         <!-- PRODUCT DETAILS -->
   <!-- -------------------------- -->
