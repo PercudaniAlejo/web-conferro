@@ -31,7 +31,6 @@
     </div>
 
     <!-- DIV CONTACT -->
-    <!-- <div class="container"> -->
     	<form action="" method="POST">
 	   		<div id="datos" class="containersContact">
 	   			<h1> CONTACTO </h1>
@@ -51,7 +50,6 @@
     			<input type="submit" name="btnEnviar" value="Enviar consulta">
     		</div>
     	</form>
-    <!-- </div> -->
 
     <?php
     	include("../correo/correoConsulta.php");
@@ -60,7 +58,9 @@
     <!-- -------------------------- -->
           	 <!-- FOOTER -->
     <!-- -------------------------- -->
-
+    <?php
+      include("../footer/footer.php");
+    ?>
     <script type="text/javascript" src="../js/main.js"></script> 
 </body>
 </html>

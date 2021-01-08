@@ -32,7 +32,68 @@
       </a>
     </div>
 
+  <!-- -------------------------- -->
+          <!-- PRODUCTOS -->
+  <!-- -------------------------- -->
+    <h1 class="titleProducts"> *NOMBRE DE CATEGORIA* </h1>
 
+    <div class="cards">
+
+      <div class="categorie__card">
+        <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
+        <div class="desc__categorie">
+          <h5> PRODUCTO 1</h5>
+        </div>
+      </div>
+  
+      <div class="categorie__card">
+        <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
+        <div class="desc__categorie">
+          <h5> PRODUCTO 2</h5>
+        </div>
+      </div>
+  
+      <div class="categorie__card">
+        <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
+        <div class="desc__categorie">
+          <h5> PRODUCTO 3</h5>
+        </div>
+      </div>
+  
+      <div class="categorie__card">
+        <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
+        <div class="desc__categorie">
+          <h5> PRODUCTO 4</h5>
+        </div>
+      </div>
+
+      <div class="categorie__card">
+        <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
+        <div class="desc__categorie">
+          <h5> PRODUCTO 5</h5>
+        </div>
+      </div>
+
+      <div class="categorie__card">
+        <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
+        <div class="desc__categorie">
+          <h5> PRODUCTO 6</h5>
+        </div>
+      </div>
+  
+      <div class="categorie__card">
+        <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
+        <div class="desc__categorie">
+          <h5> PRODUCTO 7</h5>
+        </div>
+      </div>
+  
+      <div class="categorie__card">
+        <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
+        <div class="desc__categorie">
+          <h5> PRODUCTO 8</h5>
+        </div>
+      </div> 
 
 
     <!-- -------------------------- -->
