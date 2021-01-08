@@ -48,12 +48,14 @@
     			<label>Mensaje</label>
     			<textarea placeholder="Escriba su consulta..." name="msg" required></textarea>
     			<input type="submit" name="btnEnviar" value="Enviar consulta">
+                  <?php
+          include("../correo/correoConsulta.php");
+        ?>
     		</div>
+
     	</form>
 
-    <?php
-    	include("../correo/correoConsulta.php");
-    ?>
+
 
     <!-- -------------------------- -->
           	 <!-- FOOTER -->

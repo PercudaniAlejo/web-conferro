@@ -115,6 +115,10 @@ input:focus{
 	outline: none;
 }
 
+.msgVerif {
+	position: relative;
+	color:gray; /*VER ESTILO DE MENSAJE DE CONFIRMACION*/
+}
 
 /* MOBILE */
 @media screen and (max-width: 600px) {

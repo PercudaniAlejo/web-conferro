@@ -42,56 +42,56 @@
       <div class="categorie__card">
         <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
         <div class="desc__categorie">
-          <h5> PRODUCTO 1</h5>
+          <a href="descProduct.php" class="redirec"> PRODUCTO 1 </a>
         </div>
       </div>
   
       <div class="categorie__card">
         <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
         <div class="desc__categorie">
-          <h5> PRODUCTO 2</h5>
+          <a href="" class="redirec"> PRODUCTO 2 </a>
         </div>
       </div>
   
       <div class="categorie__card">
         <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
         <div class="desc__categorie">
-          <h5> PRODUCTO 3</h5>
+          <a href="" class="redirec"> PRODUCTO 3 </a>
         </div>
       </div>
   
       <div class="categorie__card">
         <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
         <div class="desc__categorie">
-          <h5> PRODUCTO 4</h5>
+          <a href="" class="redirec"> PRODUCTO 4 </a>
         </div>
       </div>
 
       <div class="categorie__card">
         <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
         <div class="desc__categorie">
-          <h5> PRODUCTO 5</h5>
+          <a href="" class="redirec"> PRODUCTO 5 </a>
         </div>
       </div>
 
       <div class="categorie__card">
         <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
         <div class="desc__categorie">
-          <h5> PRODUCTO 6</h5>
+          <a href="" class="redirec"> PRODUCTO 6 </a>
         </div>
       </div>
   
       <div class="categorie__card">
         <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
         <div class="desc__categorie">
-          <h5> PRODUCTO 7</h5>
+          <a href="" class="redirec"> PRODUCTO 7 </a>
         </div>
       </div>
   
       <div class="categorie__card">
         <img src="../img/fotoDePrueba2.jpg" alt="imgProduct">
         <div class="desc__categorie">
-          <h5> PRODUCTO 8</h5>
+          <a href="" class="redirec"> PRODUCTO 8 </a>
         </div>
       </div> 
 

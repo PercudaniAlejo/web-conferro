@@ -24,6 +24,7 @@ body, html {
 
 .cards {
 	text-align: center;
+	margin-bottom: 30px;
 }
 
 .categorie__card {
@@ -47,16 +48,9 @@ body, html {
     align-items: center;
 }
 
-.desc__categorie>h5 {
-	color:white;
-	position: relative;
-	font-size: 1.45em;
-}
-
 .desc__categorie:hover {
 	background-color:#4f6da2;
 }
-
 
 
 /* ------------------- */

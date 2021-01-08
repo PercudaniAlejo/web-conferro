@@ -43,56 +43,56 @@
       <div class="categorie__card">
         <img src="../img/fotoDePrueba.jpg" alt="imgCategorie">
         <div class="desc__categorie">
-          <h5> CATEGORIA 1</h5>
+          <a href="listProducts.php" class="redirec"> CATEGORIA 1 </a>
         </div>
       </div>
   
       <div class="categorie__card">
         <img src="../img/fotoDePrueba.jpg" alt="imgCategorie">
         <div class="desc__categorie">
-          <h5> CATEGORIA 2</h5>
+          <a href="" class="redirec"> CATEGORIA 2 </a>
         </div>
       </div>
   
       <div class="categorie__card">
         <img src="../img/fotoDePrueba.jpg" alt="imgCategorie">
         <div class="desc__categorie">
-          <h5> CATEGORIA 3</h5>
+          <a href="" class="redirec"> CATEGORIA 3 </a>
         </div>
       </div>
   
       <div class="categorie__card">
         <img src="../img/fotoDePrueba.jpg" alt="imgCategorie">
         <div class="desc__categorie">
-          <h5> CATEGORIA 4</h5>
+          <a href="" class="redirec"> CATEGORIA 4 </a>
         </div>
       </div>
 
       <div class="categorie__card">
         <img src="../img/fotoDePrueba.jpg" alt="imgCategorie">
         <div class="desc__categorie">
-          <h5> CATEGORIA 5</h5>
+          <a href="" class="redirec"> CATEGORIA 5 </a>
         </div>
       </div>
 
       <div class="categorie__card">
         <img src="../img/fotoDePrueba.jpg" alt="imgCategorie">
         <div class="desc__categorie">
-          <h5> CATEGORIA 6</h5>
+          <a href="" class="redirec"> CATEGORIA 6 </a>
         </div>
       </div>
   
       <div class="categorie__card">
         <img src="../img/fotoDePrueba.jpg" alt="imgCategorie">
         <div class="desc__categorie">
-          <h5> CATEGORIA 7</h5>
+          <a href="" class="redirec"> CATEGORIA 7 </a>
         </div>
       </div>
   
       <div class="categorie__card">
         <img src="../img/fotoDePrueba.jpg" alt="imgCategorie">
         <div class="desc__categorie">
-          <h5> CATEGORIA 8</h5>
+          <a href="" class="redirec"> CATEGORIA 8 </a>
         </div>
       </div> 
 
